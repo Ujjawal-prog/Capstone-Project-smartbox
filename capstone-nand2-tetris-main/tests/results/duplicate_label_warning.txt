@@ -1,0 +1,2 @@
+Warning: Line 5: label 'LOOP' is already defined at line 2 (keeping first definition)
+Assembled tests/dup_label_demo.asm -> /tmp/dup.hack (6 instructions)

@@ -1,0 +1,5 @@
+Add   mine= 6 lines  official= 6 lines  -> IDENTICAL
+Max   mine=16 lines  official=16 lines  -> IDENTICAL
+Rect  mine=25 lines  official=25 lines  -> IDENTICAL
+Life  official Life.hack (7099 lines) re-assembled -> IDENTICAL
+Pong  assembled 27483 instructions, all 16-bit (no official Pong.hack available here)
